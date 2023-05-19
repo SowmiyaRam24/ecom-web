@@ -1,0 +1,9 @@
+.navbars{
+    justify-content: space-between;
+    background-color: aqua;
+}
+.navbarMenu{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-left: 35%;
+}
